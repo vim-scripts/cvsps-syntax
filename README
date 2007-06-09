@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1920
+
+It lacks a detector, the user must manually ":set ft=cvsps", make a ftdetect based on filename or put "vim: ft=cvsps" in the file.
